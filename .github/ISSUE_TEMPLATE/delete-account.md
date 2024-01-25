@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 **Please provide your email address for deletion**
-<<email address>>
+*enter email address*
